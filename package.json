@@ -1,5 +1,5 @@
 {
-  "name": "momandsons.wizaya.com",
+  "name": "indianfusioncebu.wizaya.com",
   "version": "1.0.4",
   "description": "Official app of Mon and Sons Cafe",
   "main": "index.html",
@@ -8,10 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jybanez/momandsons.wizaya.com.git"
+    "url": "git+https://github.com/jybanez/indianfusioncebu.wizaya.com.git"
   },
   "keywords": [
-    "Mom and Sons",
+    "Indian Fusion Cebu",
+    "Best of Cebu",
     "Cafe",
     "Restaurant",
     "Online Orders"
@@ -19,7 +20,7 @@
   "author": "Wizaya Business Technologies",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jybanez/momandsons.wizaya.com/issues"
+    "url": "https://github.com/jybanez/indianfusioncebu.wizaya.com/issues"
   },
-  "homepage": "https://github.com/jybanez/momandsons.wizaya.com#readme"
+  "homepage": "https://github.com/jybanez/indianfusioncebu.wizaya.com#readme"
 }
